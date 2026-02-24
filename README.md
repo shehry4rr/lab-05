@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Muhammad Shehryar Asif>`
+- **CCID:** `<27100121>`
 
 ## References and Resources
 
